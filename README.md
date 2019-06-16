@@ -8,7 +8,7 @@ brew install pkg-config yasm
 3. Clone the project from GitHub:
 
 ```
-git clone --recursive https://github.com/peter-iakovlev/Telegram-iOS.git
+git clone --recursive https://github.com/DeathRisker/Cryptogram-iOS.git
 ```
 4. Open Telegram-iOS.workspace.
 5. Open the Telegram-iOS-Fork scheme.
